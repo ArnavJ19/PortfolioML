@@ -42,6 +42,31 @@ This project explores a **clustering-driven portfolio construction** methodology
 
 ## 📈 Performance Insights
 
+### 📊 Overall Performance (2021-2025)
+
+| Metric           | Portfolio  | S&P 500  | Magnificent 7 |
+|-----------------|-----------|---------|--------------|
+| **Annual Return** | 35.36%    | 13.87%  | 35.55%       |
+| **Volatility**   | 19.11%    | 16.49%  | 30.23%       |
+| **Sharpe Ratio** | 1.75      | 0.72    | 1.10         |
+| **Sortino Ratio** | 2.56     | 1.01    | 1.62         |
+| **Treynor Ratio** | 0.32     | 0.12    | 0.21         |
+| **Calmar Ratio** | 2.06      | 0.55    | 0.72         |
+| **Max Drawdown** | -17.19%   | -25.42% | -49.39%      |
+
+### 📊 2022 Performance (Bear Market)
+
+| Metric           | Portfolio  | S&P 500  | Magnificent 7 |
+|-----------------|-----------|---------|--------------|
+| **Annual Return** | 13.67%    | -17.13% | -40.53%      |
+| **Volatility**   | 26.59%    | 24.17%  | 42.38%       |
+| **Sharpe Ratio** | 0.44      | -0.79   | -1.00        |
+| **Sortino Ratio** | 0.69     | -1.26   | -1.65        |
+| **Treynor Ratio** | 0.11     | -0.19   | -0.26        |
+| **Calmar Ratio** | 0.79      | -0.67   | -0.82        |
+| **Max Drawdown** | -17.19%   | -25.42% | -49.13%      |
+
+
 ### ✅ Long-Term Performance
 - **Portfolio Annual Return**: **35.36%**  
 - **S&P 500 Annual Return**: **13.87%**  
@@ -93,6 +118,25 @@ This project explores a **clustering-driven portfolio construction** methodology
 - Enhancing **machine learning-driven selection** for **dynamic portfolio optimization**.
 
 ---
+### Overall Results 
+![Overall_RV](https://github.com/user-attachments/assets/7b26bf01-4930-4e72-88c8-1e9e11c15232)
+![Overall_PV_Returns](https://github.com/user-attachments/assets/7f6a0712-d9df-47e4-8d93-7995cb95b5bb)
+![Overall_Drawdown](https://github.com/user-attachments/assets/23f7d334-9f79-4f8c-a15f-d8423c3c258c)
+![Overall_CR_Returns](https://github.com/user-attachments/assets/1ddb8223-c5ca-4020-a876-90417e136e38)
+
+### Perfomance during the 2022
+![PV_2022](https://github.com/user-attachments/assets/3e68e17c-4d22-4eac-a2f6-8da9a5ffd254)
+![CR_2022](https://github.com/user-attachments/assets/e55b72c9-7f2f-4c18-8f54-df491081183c)
+![Drawdown_2022](https://github.com/user-attachments/assets/36de1f23-751c-4bdd-b7d2-48ed5d10ec15)
+![Distribution_2022](https://github.com/user-attachments/assets/157f570d-58fc-4a97-93f2-794e2131cd95)
+![RV_2022](https://github.com/user-attachments/assets/18253404-30fb-4a51-adca-b6ecfe6968ad)
+
+### Portfolio Allocations
+![Allocation](https://github.com/user-attachments/assets/59099db9-7421-44b8-aeb0-3a08a7b00e95)
+
+
+
+
 
 ## 🚀 Getting Started
 
